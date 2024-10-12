@@ -1,0 +1,23 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+691;Bremen;PM;11.09.2023;13.09.2023;3;;eor;                                                                                                                                                             
+691;Bremen;PM;15.09.2023;18.09.2023;4;;eor;                                                                                                                                                             
+691;Bremen;FM;15.08.2023;16.08.2023;2;;eor;                                                                                                                                                             
+691;Bremen;FM;12.09.2023;18.09.2023;7;;eor;                                                                                                                                                             
+691;Bremen;FX;14.08.2023;15.08.2023;2;;eor;                                                                                                                                                             
+691;Bremen;FX;10.09.2023;12.09.2023;3;;eor;                                                                                                                                                             
+691;Bremen;FX;14.09.2023;17.09.2023;4;;eor;                                                                                                                                                             
+691;Bremen;UPM;14.08.2023;14.08.2023;1;;eor;                                                                                                                                                            
+691;Bremen;UPM;20.08.2023;24.08.2023;5;;eor;                                                                                                                                                            
+691;Bremen;UPM;01.09.2023;18.09.2023;18;;eor;                                                                                                                                                           
+691;Bremen;VPM;14.08.2023;14.08.2023;1;;eor;                                                                                                                                                            
+691;Bremen;VPM;20.08.2023;24.08.2023;5;;eor;                                                                                                                                                            
+691;Bremen;VPM;01.09.2023;18.09.2023;18;;eor;                                                                                                                                                           
+691;Bremen;NM;14.08.2023;14.08.2023;1;;eor;                                                                                                                                                             
+691;Bremen;NM;18.08.2023;18.08.2023;1;;eor;                                                                                                                                                             
+691;Bremen;NM;20.08.2023;24.08.2023;5;;eor;                                                                                                                                                             
+691;Bremen;NM;28.08.2023;28.08.2023;1;;eor;                                                                                                                                                             
+691;Bremen;NM;01.09.2023;18.09.2023;18;;eor;                                                                                                                                                            
+691;Bremen;RSK;11.09.2023;12.09.2023;2;;eor;                                                                                                                                                            
+691;Bremen;RSK;07.08.2024;07.08.2024;1;;eor;                                                                                                                                                            
+691;Bremen;RSKF;12.09.2023;12.09.2023;1;;eor;                                                                                                                                                           
+generiert: 11.10.2024 --  Deutscher Wetterdienst  --                                                                                                                                                    
