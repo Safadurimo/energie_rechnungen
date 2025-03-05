@@ -1,0 +1,4 @@
+# Exclude Python bytecode files
+*.pyc
+__pycache__
+__pycache__/test_energie_rechnung.cpython-312.pyc
